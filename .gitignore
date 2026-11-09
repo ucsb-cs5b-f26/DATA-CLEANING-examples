@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython profile and config files
+profile_default/
+ipython_config.py
+
+# JupyterLab LSP virtual documents
+.virtual_documents/
+
+# Python cache and build artifacts (highly recommended for notebook repositories)
+__pycache__/
+*.py[cod]
+*$py.class
+
